@@ -1,16 +1,16 @@
-title: Stackbit Fjord Theme
+title: Name Every Number
 baseurl: /
 permalink: '/:title/'
 palette: yellow
 header:
-  title: Fjord
-  tagline: Minimal and clean blog theme
+  title: Name Every Number
+  tagline: A math blog
   logo_img: images/logo.png
   bg_img: images/header-bg.jpg
   has_nav: true
   has_social: true
 footer:
-  content: '&copy; All rights reserved.'
+  content: '&copy; Vanessa Sun.'
   links:
     - text: Made with Stackbit
       url: 'https://www.stackbit.com'
